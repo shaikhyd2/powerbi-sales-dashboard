@@ -34,7 +34,9 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 ## Repository Structure
 
 Data: https://github.com/shaikhyd2/powerbi-sales-dashboard/blob/main/Sales_Data.xlsx
+
 Dashboard: https://github.com/shaikhyd2/powerbi-sales-dashboard/blob/main/Sales_Report.pbix
+
 Dashboard Image: <img width="1441" height="810" alt="Dashboard_Image" src="https://github.com/user-attachments/assets/8eda1ab3-168d-47b2-afa9-8a8fe7835d48" />
 
 
